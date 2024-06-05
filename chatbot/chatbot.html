@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+	<link rel="stylesheet" href="style.css">
+	<script src="https://cdn.botframework.com/botframework-webchat/latest/botframework-webchat.js"></script>
+	<title>Chatbox</title>
+	<style>
+		
+		#i-frame{
+			height: 440px;
+		}
+	</style>
+</head>
+<body>
+
+	<div class="chatbox-wrapper">
+		<div class="chatbox-toggle">
+			<i class='bx bx-message-dots'></i>
+		</div>
+		<div class="chatbox-message-wrapper">
+			<div class="chatbox-message-header">
+				<div class="chatbox-message-profile">
+					<img src="bot-profile.avif" alt="" class="chatbox-message-image">
+					<div>
+						<h4 class="chatbox-message-name">K-Medic's Bot</h4>
+						<p class="chatbox-message-status">online</p>
+					</div>
+				</div>
+				<div class="chatbox-message-dropdown">
+					<i class='bx bx-dots-vertical-rounded chatbox-message-dropdown-toggle'></i>
+					<ul class="chatbox-message-dropdown-menu">
+						<li>
+							<a href="#">Search</a>
+						</li>
+						<li>
+							<a href="#">Report</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="chatbox-message-content">
+				<iframe id="i-frame" src="https://webchat.botframework.com/embed/healthbot-pmvnfyh?s=enbas0Keod4.ayW7PJHuofnXszSr-p7csi3zNTdYYhDIPTlr6qb0Dk8"></iframe>
+			</div>
+		</div>
+	</div>
+	
+
+	<script src="script.js"></script>
+	
+
+</body>
+</html>
