@@ -33,7 +33,6 @@ The K-medic-s Web App is a user-friendly, responsive web application designed to
 - **User Experience:** Offers a simple and intuitive interface, ensuring a smooth user experience for both patients and hospital staff.
 
 ## Screenshots
-
 ![Screenshot 2024-06-06 165134](https://github.com/kuppamjohari/k-medic-s_ftr-internship/assets/70678518/c0a18298-35d9-4f8e-a224-0671b1483f06)
 ![Screenshot 2024-06-06 165149](https://github.com/kuppamjohari/k-medic-s_ftr-internship/assets/70678518/369bc426-3509-4c77-b56c-6f9f19687bb6)
 ![Screenshot 2024-06-06 165209](https://github.com/kuppamjohari/k-medic-s_ftr-internship/assets/70678518/2cba4916-b134-4804-8e76-eaabbd42c015)
