@@ -1,4 +1,38 @@
-# k-medic-s
+# K-medic-s
+
+## Introduction
+
+The K-medic-s Web App is a user-friendly, responsive web application designed to streamline the process of scheduling appointments in a hospital setting. It provides patients with a convenient way to book appointments with doctors, view available slots, and manage their appointment history. The web app also allows hospital staff to efficiently manage doctor schedules and patient bookings.
+
+## Features
+
+### Patient Interface
+- **Appointment Booking:** Patients can view available time slots and book appointments with doctors.
+- **Appointment Management:** Patients can view their upcoming appointments, reschedule, or cancel bookings.
+- **Doctor Profiles:** Patients can view detailed profiles of doctors, including their specialties, experience, and availability.
+- **Notifications:** Email notifications are sent to patients to confirm bookings, remind them of upcoming appointments, and inform them of any changes.
+- **Real-time Chat Support:** Chat feature for real-time support and assistance.
+
+### Staff Interface
+- **Schedule Management:** Hospital staff can manage doctors' schedules, including setting availability and blocking out time slots.
+- **Appointment Management:** Staff can view, edit, and manage all patient appointments.
+- **Patient Records:** Access to patient appointment history and contact information to provide better service.
+
+## Technology Stack
+### Chat Bot
+- **Azure Chat Bot:** An intelligent, conversational agent integrated into the web app to assist users with booking appointments, answering queries, and providing support. The Azure Bot Service leverages AI to provide a seamless and interactive user experience.
+### Frontend
+- **HTML5:** Provides the structure of the web pages.
+- **CSS3:** Ensures the application is visually appealing and responsive across different devices.
+- **JavaScript:** Enhances interactivity and functionality, such as form validation and dynamic content updates.
+### Backend
+- Since this is a static web app, there is no traditional backend. However, interactions can be integrated with APIs to manage data.
+
+## Benefits
+
+- **Accessibility:** The app is accessible from any device with an internet connection, allowing patients to book appointments from the comfort of their homes.
+- **Efficiency:** Reduces the workload on hospital staff by automating the appointment scheduling process.
+- **User Experience:** Offers a simple and intuitive interface, ensuring a smooth user experience for both patients and hospital staff.
 
 ![Screenshot 2024-06-06 165134](https://github.com/kuppamjohari/k-medic-s_ftr-internship/assets/70678518/c0a18298-35d9-4f8e-a224-0671b1483f06)
 ![Screenshot 2024-06-06 165149](https://github.com/kuppamjohari/k-medic-s_ftr-internship/assets/70678518/369bc426-3509-4c77-b56c-6f9f19687bb6)
