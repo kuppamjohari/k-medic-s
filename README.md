@@ -1,7 +1,5 @@
 # K-medic-s
 
-## Introduction
-
 The K-medic-s Web App is a user-friendly, responsive web application designed to streamline the process of scheduling appointments in a hospital setting. It provides patients with a convenient way to book appointments with doctors, view available slots, and manage their appointment history. The web app also allows hospital staff to efficiently manage doctor schedules and patient bookings.
 
 ## Features
